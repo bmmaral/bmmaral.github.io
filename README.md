@@ -1,2 +1,2 @@
-# A failed personal website attempt
-:bowtie::bowtie::bowtie:
+# A failed personal website attempt :bowtie:
+
